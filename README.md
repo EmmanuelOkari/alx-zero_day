@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vagrant - or - how to code in your local computer
 
 ## Learning Objectives
@@ -17,3 +18,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * How to use VMs with Vagrant
 
 * What does the command uname do
+=======
+alx-zero_day
+>>>>>>> 7e83c4c0113d28cb8b9dd47c1abe52da31c469b4
